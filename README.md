@@ -5,10 +5,6 @@
 💡 I love building interfaces that look beautiful *and* feel intuitive to use.  
 🌱 Currently learning **React**, **Next.js**, and improving my **UX research & prototyping** skills.
 
-![James's GitHub stats][![My Skills](https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,vscode)](https://skillicons.dev)
-
-### 👋 Hi, I'm James
-
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,vscode)
 
 ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayko-hmn&show_icons=true&theme=tokyonight&hide_border=true)
